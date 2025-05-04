@@ -4,28 +4,28 @@
 
 ## Contents
 
-- [Global](#global)
+- [🌐 Global](#global)
 - [By Country/Language](#by-countrylanguage)
-  - [France](#france)
-  - [United States](#united-states)
-  - [United Kingdom](#united-kingdom)
-  - [Germany](#germany)
-  - [Spain](#spain)
-  - [Italy](#italy)
-  - [Japan](#japan)
-  - [South Korea](#south-korea)
-  - [India](#india)
-  - [Russia](#russia)
-  - [Brazil](#brazil)
-  - [Latin America (Spanish)](#latin-america-spanish)
-  - [China](#china)
-  - [Middle East/Arabic](#middle-eastarabic)
-  - [Nordic Countries](#nordic-countries)
-- [Genre-Specific Collections](#genre-specific-collections)
+  - [🇫🇷 France](#france)
+  - [🇺🇸 United States](#united-states)
+  - [🇬🇧 United Kingdom](#united-kingdom)
+  - [🇩🇪 Germany](#germany)
+  - [🇪🇸 Spain](#spain)
+  - [🇮🇹 Italy](#italy)
+  - [🇯🇵 Japan](#japan)
+  - [🇰🇷 South Korea](#south-korea)
+  - [🇮🇳 India](#india)
+  - [🇷🇺 Russia](#russia)
+  - [🇧🇷 Brazil](#brazil)
+  - [🌎 Latin America (Spanish)](#latin-america-spanish)
+  - [🇨🇳 China](#china)
+  - [🌍 Middle East/Arabic](#middle-eastarabic)
+  - [🇸🇪🇳🇴🇩🇰🇫🇮 Nordic Countries](#nordic-countries)
+- [🎬 Genre-Specific Collections](#genre-specific-collections)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Global
+## 🌐 Global
 
 Sites and platforms that offer content across multiple countries:
 
@@ -38,7 +38,7 @@ Sites and platforms that offer content across multiple countries:
 
 ## By Country/Language
 
-### France
+### 🇫🇷 France
 
 - [Arte.tv](https://www.arte.tv/fr/) - Franco-German cultural channel with free films
 - [France.tv](https://www.france.tv/films/) - Free films from French public broadcasting
@@ -56,7 +56,7 @@ Sites and platforms that offer content across multiple countries:
   - [Box Office Animation FR](https://www.youtube.com/@BoxOfficeAnimationFR) - Animated films in French
   - [Boxoffice KID](https://www.youtube.com/@BoxofficeKID) - Children's content in French
 
-### United States
+### 🇺🇸 United States
 
 - [Crackle](https://www.crackle.com/) - Free movies and TV shows with ads
 - [Roku Channel](https://therokuchannel.roku.com/) - Free content with ads
@@ -72,20 +72,20 @@ Sites and platforms that offer content across multiple countries:
   - [Films4You](https://www.youtube.com/@Films4You) - Various free films
   - [PizzaFLIX](https://www.youtube.com/@PizzaFLIX/featured) - Classic movies, westerns, and noir films
 
-### United Kingdom
+### 🇬🇧 United Kingdom
 
 - [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Limited film collection with TV license
 - [All 4](https://www.channel4.com/) - Channel 4's free streaming service
 - [My5](https://www.my5.tv/) - Channel 5's on-demand service
 - [BFI Player Free Collection](https://player.bfi.org.uk/free) - British Film Institute's free films
 
-### Germany
+### 🇩🇪 Germany
 
 - [Arte.tv (German)](https://www.arte.tv/de/) - Franco-German cultural channel
 - [ZDF Mediathek](https://www.zdf.de/filme) - Free films from German public television
 - [ARD Mediathek](https://www.ardmediathek.de/filme) - Films from German public broadcasting
 
-### Spain
+### 🇪🇸 Spain
 
 - [RTVE Play](https://www.rtve.es/play/peliculas/) - Spanish public television's film collection
 - [Atresplayer](https://www.atresplayer.com/) - Limited free content
@@ -94,65 +94,65 @@ Sites and platforms that offer content across multiple countries:
   - [Grjngo Películas Del Oeste](https://www.youtube.com/@GrjngoPeliculasDelOeste) - Western films in Spanish
   - [Pelis Para Ti](https://www.youtube.com/@PelisParaTi) - Various Spanish films
 
-### Italy
+### 🇮🇹 Italy
 
 - [RaiPlay](https://www.raiplay.it/film) - Italian public broadcasting service
 - [Mediaset Infinity](https://www.mediasetinfinity.mediaset.it/) - Some free content
 
-### Japan
+### 🇯🇵 Japan
 
 - [TVer](https://tver.jp/) - Some free Japanese content
 - [NHK On-Demand](https://www.nhk-ondemand.jp/) - Limited free content
 - [Asian Crush](https://www.asiancrush.com/) - Some free Japanese films
 
-### South Korea
+### 🇰🇷 South Korea
 
 - [Kocowa](https://www.kocowa.com/) - Some free content with ads
 - [Viki](https://www.viki.com/) - Limited free Korean films and shows
 
-### India
+### 🇮🇳 India
 
 - [JioCinema](https://www.jiocinema.com/) - Free Bollywood and regional movies
 - [MX Player](https://www.mxplayer.in/) - Free Indian content
 - [Disney+ Hotstar (Free Tier)](https://www.hotstar.com/) - Limited free content
 
-### Russia
+### 🇷🇺 Russia
 
 - [Ivi](https://www.ivi.ru/) - Some free Russian movies with ads
 - [Okko](https://okko.tv/) - Limited free content
 - [Kinopoisk HD](https://hd.kinopoisk.ru/) - Some free Russian films
 
-### Brazil
+### 🇧🇷 Brazil
 
 - [Globoplay](https://globoplay.globo.com/) - Limited free Brazilian content
 - [Looke](https://www.looke.com.br/) - Some free films with ads
 
-### Latin America (Spanish)
+### 🌎 Latin America (Spanish)
 
 - [Butaca.tv](https://butaca.tv/) - Free streaming platform with films and series for Latin American audiences
 - **YouTube Channels**:
   - [Películas Plus TV](https://www.youtube.com/@PeliculasPlusTv) - Spanish-language films for Latin American viewers
   - [El Archivo](https://www.youtube.com/@ElArchivo) - Collection of movies in Spanish for Latin American audiences
 
-### China
+### 🇨🇳 China
 
 - [iQIYI](https://www.iq.com/) - Some free Chinese content
 - [Youku](https://www.youku.com/) - Limited free Chinese films
 - [Tencent Video](https://v.qq.com/) - Some free Chinese movies
 
-### Middle East/Arabic
+### 🌍 Middle East/Arabic
 
 - [Shahid](https://shahid.mbc.net/) - Limited free Arabic content
 - [Weyyak](https://weyyak.com/) - Free Arabic films and series
 
-### Nordic Countries
+### 🇸🇪🇳🇴🇩🇰🇫🇮 Nordic Countries
 
 - [SVT Play](https://www.svtplay.se/) (Sweden) - Swedish public broadcasting
 - [NRK TV](https://tv.nrk.no/) (Norway) - Norwegian public broadcasting
 - [DR TV](https://www.dr.dk/drtv/) (Denmark) - Danish public broadcasting
 - [Yle Areena](https://areena.yle.fi/) (Finland) - Finnish public broadcasting
 
-## Genre-Specific Collections
+## 🎬 Genre-Specific Collections
 
 - [Documentary Heaven](https://documentaryheaven.com/) - Free documentaries
 - [Top Documentary Films](https://topdocumentaryfilms.com/) - Free documentaries
