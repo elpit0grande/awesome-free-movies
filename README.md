@@ -17,6 +17,7 @@
   - [India](#india)
   - [Russia](#russia)
   - [Brazil](#brazil)
+  - [Latin America (Spanish)](#latin-america-spanish)
   - [China](#china)
   - [Middle East/Arabic](#middle-eastarabic)
   - [Nordic Countries](#nordic-countries)
@@ -42,9 +43,18 @@ Sites and platforms that offer content across multiple countries:
 - [Arte.tv](https://www.arte.tv/fr/) - Franco-German cultural channel with free films
 - [France.tv](https://www.france.tv/films/) - Free films from French public broadcasting
 - [INA Madelen](https://madelen.ina.fr/) - Some free classic French films
-- [YouTube Channels]:
-  - [Imineo Cinéma](https://www.youtube.com/channel/UCpbCN9Ik4JbRNz2eO9Qr4Rg) - Licensed free films
+- **YouTube Channels**:
+  - [Imineo](https://www.youtube.com/@imineo/videos) - Licensed free films
   - [Cinéma Ina](https://www.youtube.com/c/Inafrcine) - Classic French cinema
+  - [CultureTube](https://www.youtube.com/@CultureTube) - Cultural and classic French content
+  - [Grjngo Films De Western](https://www.youtube.com/@GrjngoFilmsDeWestern) - Western films in French
+  - [Cinéma Pour Toi](https://www.youtube.com/@CinemaPourToi) - Various French films
+  - [Cinéma Cinémas](https://www.youtube.com/@CinemaCinemas) - Channel from Imineo network
+  - [Artflix Films Classiques](https://www.youtube.com/@ArtflixFilmsClassiques) - Classic films in French
+  - [Cinéma Cinéma](https://www.youtube.com/channel/UCMQMViObVfaALDRtFnmUWgA) - French film collection
+  - [Hello Maestro](https://www.youtube.com/@HelloMaestrofr) - Educational content and animation
+  - [Box Office Animation FR](https://www.youtube.com/@BoxOfficeAnimationFR) - Animated films in French
+  - [Boxoffice KID](https://www.youtube.com/@BoxofficeKID) - Children's content in French
 
 ### United States
 
@@ -53,6 +63,14 @@ Sites and platforms that offer content across multiple countries:
 - [PBS](https://www.pbs.org/show/film/) - Documentaries and independent films
 - [Kanopy](https://www.kanopy.com/) - Free through many public libraries
 - [Hoopla](https://www.hoopladigital.com/) - Free through participating libraries
+- **YouTube Channels**:
+  - [FREE MOVIES](https://www.youtube.com/@FREEMOVIESYT/videos) - Collection of free full-length movies
+  - [Timeless Classic Movies](https://www.youtube.com/channel/UCFTTjluTWUFW5nykBbdhe8g) - Classic films in public domain
+  - [The Archive](https://www.youtube.com/@TheArchiveTV) - Variety of classic movies and TV shows
+  - [Artflix Movie Classics](https://www.youtube.com/@ArtflixMovieClassics) - Classic cinema collection
+  - [Grjngo Western Movies](https://www.youtube.com/@GrjngoWesternMovies) - Western films collection
+  - [Films4You](https://www.youtube.com/@Films4You) - Various free films
+  - [PizzaFLIX](https://www.youtube.com/@PizzaFLIX/featured) - Classic movies, westerns, and noir films
 
 ### United Kingdom
 
@@ -71,6 +89,10 @@ Sites and platforms that offer content across multiple countries:
 
 - [RTVE Play](https://www.rtve.es/play/peliculas/) - Spanish public television's film collection
 - [Atresplayer](https://www.atresplayer.com/) - Limited free content
+- **YouTube Channels**:
+  - [Artflix Películas Clásicas](https://www.youtube.com/@ArtflixPeliculasClasicas) - Classic films in Spanish
+  - [Grjngo Películas Del Oeste](https://www.youtube.com/@GrjngoPeliculasDelOeste) - Western films in Spanish
+  - [Pelis Para Ti](https://www.youtube.com/@PelisParaTi) - Various Spanish films
 
 ### Italy
 
@@ -104,6 +126,13 @@ Sites and platforms that offer content across multiple countries:
 
 - [Globoplay](https://globoplay.globo.com/) - Limited free Brazilian content
 - [Looke](https://www.looke.com.br/) - Some free films with ads
+
+### Latin America (Spanish)
+
+- [Butaca.tv](https://butaca.tv/) - Free streaming platform with films and series for Latin American audiences
+- **YouTube Channels**:
+  - [Películas Plus TV](https://www.youtube.com/@PeliculasPlusTv) - Spanish-language films for Latin American viewers
+  - [El Archivo](https://www.youtube.com/@ElArchivo) - Collection of movies in Spanish for Latin American audiences
 
 ### China
 
