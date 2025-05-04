@@ -127,7 +127,7 @@ Sites and platforms that offer content across multiple countries:
 
 - [Documentary Heaven](https://documentaryheaven.com/) - Free documentaries
 - [Top Documentary Films](https://topdocumentaryfilms.com/) - Free documentaries
-- [Classic Cinema Online](https://www.classiccinemaonline.com/) - Classic films
+- [Classic Cinema Online](https://classiccinemaonline.com/) - Classic films
 - [Horror Flix](https://www.horrorflix.com/) - Free horror movies
 - [Wu Tang Collection](https://www.youtube.com/c/WuTangCollectionTV) - Martial arts films
 
